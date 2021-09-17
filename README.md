@@ -10,6 +10,7 @@ You have to shove these in your assignment file, it can be pdf or docx
 | <a href="#abstract-class"> Abstract Class </a> | 30/08/21 |
 | <a href="#user-defined-package"> User-defined Package </a> | 07/09/21 |
 | <a href="access-modifier"> Access Modifier </a> | 09/09/21 |
+| <a href="array"> Array </a> | 17/09/21 |
 
 <h2 id="inheritance">Inheritance</h2>
 
@@ -69,12 +70,6 @@ public class Main {
 
 Any **TEN** questions from these [40 questions](https://javaconceptoftheday.com/java-practice-questions-on-method-overloading-and-overriding/)
 
-<h2 id="user-defined-package"> User-defined Package </h2>
-
-Make a `package`, with a method to add two numbers.
-
-Import it to use it in another class.
-
 <h2 id="abstract-class"> Abstract Class </h2>
 <details>
   <summary> 1.  Create an abstract class 'Parent' with a method 'message'... </summary>
@@ -103,6 +98,17 @@ Create an object for eac of the two classes and print the percentage of marks fo
 Create an abstract class 'Animals' with two abstract methods 'cats' and 'dogs'. Now create a class 'Cats' with a method 'cats' which prints "Cats meow" and a class 'Dogs' with a method 'dogs' which prints "Dogs bark", both inheriting the class 'Animals'. Now create an object for each of the subclasses and call their respective methods.
 </details>
 
+<h2 id="user-defined-package"> User-defined Package </h2>
+
+1. Make a `package`, with a method to add two numbers. Import it to use it in another class.
+2. Any **5** questions from [here](https://www.examtray.com/java-questions/java-package-interview-mcq-questions-and-answers)
+
 <h2 id="access-modifier"> Access Modifier </h2>
 
-Make a `protected` access method to calculate factorial in a package
+1. Make a `protected` access method to calculate factorial in a package
+2. What is copy constructor? what are advantages of copy constructor? Implement it.
+3. What is Private constructor? what are advantages of copy constructor? Implement it.
+
+<h2 id="array"> Array </h2>
+
+Any **20** questions from [Related Topics](https://www.javatpoint.com/array-in-java) at bottom.
