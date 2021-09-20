@@ -9,25 +9,13 @@ You have to shove these in your assignment file, it can be pdf or docx
 | <a href="#overloading-and-overriding"> Overloading and Overriding </a> | 16/08/21 |
 | <a href="#abstract-class"> Abstract Class </a> | 30/08/21 |
 | <a href="#user-defined-package"> User-defined Package </a> | 07/09/21 |
-| <a href="access-modifier"> Access Modifier </a> | 09/09/21 |
-| <a href="array"> Array </a> | 17/09/21 |
+| <a href="#access-modifier"> Access Modifier </a> | 09/09/21 |
+| <a href="#array"> Array </a> | 17/09/21 |
 
 <h2 id="inheritance">Inheritance</h2>
 
 <details>
-  <summary> 1.  Write a code to make an ASCII family tree </summary>
-  
-   <br>
-  
-  Probably explaining Inheritance (?)
-
-  E.g.
-  
-  ![Simple Directory Tree](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.stack.imgur.com%2FTxJgm.png&f=1&nofb=1)
-</details>
-
-<details>
-  <summary> 2.  What will be the oputput of following JAVA program </summary>
+  <summary> 1.  What will be the oputput of following JAVA program </summary>
 
 ```java
 class Base {
@@ -52,13 +40,13 @@ public class Main {
 </details>
 
 <details>
-  <summary> 3.  Write a program that inherits a class named Alien ... </summary>
+  <summary> 2.  Write a program that inherits a class named Alien ... </summary>
 
   Write a program that inherits a class named Alien and Pirates from a parent class Human. The human class has its own features like the Human can sleep, walk, talk,etc. the Alien and Pirates class inheriting these functionalities as well as they have their characteristics.
 </details>
 
 <details>
-  <summary> 4.  Which of the following is true about inheritance in Java? </summary>
+  <summary> 3.  Which of the following is true about inheritance in Java? </summary>
      
   - Private methods are final.
   - Protected members are accessible within a package <br> and inherited classes outside the package.
@@ -111,4 +99,4 @@ Create an abstract class 'Animals' with two abstract methods 'cats' and 'dogs'. 
 
 <h2 id="array"> Array </h2>
 
-Any **20** questions from [Related Topics](https://www.javatpoint.com/array-in-java) at bottom.
+Any **15** questions from [Related Topics](https://www.javatpoint.com/array-in-java) at bottom.
