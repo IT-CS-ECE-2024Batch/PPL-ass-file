@@ -11,7 +11,8 @@ You have to shove these in your assignment file, it can be pdf or docx
 | <a href="#user-defined-package"> User-defined Package </a> | 07/09/21 |
 | <a href="#access-modifier"> Access Modifier </a> | 09/09/21 |
 | <a href="#array"> Array </a> | 17/09/21 |
-
+| <a href="#string"> String </a> | 23/09/21 |
+  
 <h2 id="inheritance">Inheritance</h2>
 
 <details>
@@ -93,10 +94,14 @@ Create an abstract class 'Animals' with two abstract methods 'cats' and 'dogs'. 
 
 <h2 id="access-modifier"> Access Modifier </h2>
 
-1. Make a `protected` access method to calculate factorial in a package
+1. Make a `protected` access method to calculate factorial in a package.
 2. What is copy constructor? what are advantages of copy constructor? Implement it.
 3. What is Private constructor? what are advantages of copy constructor? Implement it.
 
 <h2 id="array"> Array </h2>
 
 Any **15** questions from [Related Topics](https://www.javatpoint.com/array-in-java) at bottom.
+
+<h2 id="string"> String </h2>
+
+Any **10** <a href="https://www.javatpoint.com/java-string"> String methods </a> implementation in one or more program(s).
